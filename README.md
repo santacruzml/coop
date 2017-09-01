@@ -1,2 +1,4 @@
 # coop
-General resources for the cooperative with links to other projects
+Meetings every Thursday in E2-215 at noon.
+
+Check out our [Google Group](https://groups.google.com/forum/#!forum/thesmc).
