@@ -1,8 +1,8 @@
 # How to contribute to the Santa Cruz Machine Learning Cooperative
 
-The Santa Cruz Machine learning cooperative has a lot of ways for you to contribute!
+The Santa Cruz Machine Learning Cooperative has a lot of ways for you to contribute!
 
-[Fork it now!](https://github.com/santacruzml/coop#fork-destination-box)!
+[Fork it now!](https://github.com/santacruzml/coop#fork-destination-box)
 
 Check out the project's [Issues Page](https://github.com/santacruzml/coop),
 which we use as a discussion forum. Issues which should in this repository can be voted on and resolved using
@@ -18,7 +18,7 @@ GitHub provides a nice [overview on how to create a pull request](https://help.g
 Some general rules to follow:
 
 * [Fork](https://help.github.com/articles/fork-a-repo) the main project 
-  into your personal GitHub space to work on. [Fork it now!](https://github.com/santacruzml/coop#fork-destination-box)!
+  into your personal GitHub space to work on. [Fork it now!](https://github.com/santacruzml/coop#fork-destination-box)
 * Clone that fork to your local computer `git clone https://github.com/YOURNAME/coop.git` 
 * Set `santacruzml` as your upstream repository `git remote add upstream https://github.com/santacruzml/coop.git`.
 * Create a branch for each update you are working on referencing the
