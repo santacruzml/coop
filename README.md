@@ -4,7 +4,7 @@
 
 ## To join!
 
-Add yourself to the [mailing list](https://groups.google.com/forum/#!forum/thesmc) and come to a meeting!
+Add yourself to the [mailing list scml-group@ucsc.edu](https://groups.google.com/a/ucsc.edu/forum/#!forum/scml-group) and come to a meeting!
 
 ## Meeting Schedule
 
@@ -12,7 +12,7 @@ Meetings every Thursday in E2-215 at noon.
 
 ## Mailing List
 
-Our mailing list is currently hosted here: [Google Group](https://groups.google.com/forum/#!forum/thesmc). You can view past messages or add yourself to the list!
+Our mailing list is currently hosted here: [Google Group scml-group@ucsc.edu](https://groups.google.com/a/ucsc.edu/forum/#!forum/scml-group). You can view past messages or add yourself to the list!
 
 ## Blog
 
