@@ -8,7 +8,8 @@ Add yourself to the [mailing list scml-group@ucsc.edu](https://groups.google.com
 
 ## Meeting Schedule
 
-Meetings every Thursday in E2-215 at noon.
+Meetings every Wednesday in E2-215 at noon, with every other Wednesday focused
+on students.
 
 ## Mailing List
 
