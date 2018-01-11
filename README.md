@@ -15,14 +15,8 @@ on students.
 
 Our mailing list is currently hosted here: [Google Group scml-group@ucsc.edu](https://groups.google.com/a/ucsc.edu/forum/#!forum/scml-group). You can view past messages or add yourself to the list!
 
-## Blog
+## Website
 
-We maintain a blog with relevant content for SCML members as well as the public.
+We maintain a website with relevant content for SCML members as well as the public.
 
 https://santacruzml.github.io/
-
-## Blog maintenance
-
-If you would like to be involved with adding content to the blog, please join the issues here:
-
-https://github.com/santacruzml/santacruzml.github.io-src
